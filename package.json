@@ -16,9 +16,14 @@
     "url": "https://github.com/pthm/geocoding/issues"
   },
   "homepage": "https://github.com/pthm/geocoding#readme",
-  "keywords": ["geocode", "geocoding", "google", "geocoder"],
+  "keywords": [
+    "geocode",
+    "geocoding",
+    "google",
+    "geocoder"
+  ],
   "dependencies": {
     "q": "^1.4.1",
-    "superagent": "^2.0.0-alpha.3"
+    "superagent": "^4.1.0"
   }
 }
